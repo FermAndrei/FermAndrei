@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ferm Andrei
+- 👀 I’m interested in Front-end Web Development
+- 🌱 I’m currently learning JavaScript/ReactJS and other CSS Frameworks
+- 💞️ I’m looking a job that give me a change to enhance my skills as a Front-End Dev.
+- 📫 How to reach me ---> fermandrei1@gmail.com
