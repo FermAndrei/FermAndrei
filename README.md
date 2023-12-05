@@ -1,7 +1,7 @@
 ![giphy](https://github.com/FermAndrei/FermAndrei/assets/142710148/7e55bc53-058b-4f81-bf48-1251bdcf8f3a)
 
 <h1 align="center">Hi 👋, I'm Ferm Andrei</h1>
-<h3 align="center">A Web Developer with a primary focus on frontend development, specializing in creating the user interface and user experience of websites.</h3>
+<h3 align="center">A passionate Front-End Developer</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
