@@ -1,6 +1,5 @@
 
-![retro-pixel-landscape-background-0g0dpo6tlg0pbmfp](https://github.com/FermAndrei/FermAndrei/assets/142710148/66686947-efe8-49d7-ba69-6f97bc8ad011)
-
+![giphy](https://github.com/FermAndrei/FermAndrei/assets/142710148/ec1dd861-f15f-4e2c-9abb-eff0e730ef0e)
 <h1 align="center">Hi 👋, I'm Ferm Andrei</h1>
 <h3 align="center">A Web Developer with a primary focus on frontend development, specializing in creating the user interface and user experience of websites.</h3>
 
