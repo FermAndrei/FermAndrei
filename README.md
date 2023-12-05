@@ -1,5 +1,4 @@
-![image](https://github.com/FermAndrei/FermAndrei/assets/142710148/95a6cb85-0331-4d8b-bf08-7670fae62e69)
-
+<img src="https://github.com/FermAndrei/FermAndrei/assets/142710148/95a6cb85-0331-4d8b-bf08-7670fae62e69" width=100%>
 
 <h1 align="center">Hi 👋, I'm Ferm Andrei</h1>
 <h3 align="center">A Web Developer with a primary focus on frontend development, specializing in creating the user interface and user experience of websites.</h3>
